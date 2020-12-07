@@ -1,0 +1,2 @@
+# Hashing
+ A hashing table that references to a char array that stores the strings in the order they were inserted in and the index in the character array at which the string is stored is kept in the hashtable. The strings are read as an input from a text file with numbers as instructions and strings as value. If a string is deleted from the hashtable, it will replace the string in the char array as a sequence of ‘*’. If load-factor  > 50%, table is rehashed.
