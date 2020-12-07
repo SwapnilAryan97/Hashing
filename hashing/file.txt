@@ -1,0 +1,24 @@
+14 11
+10 alex
+10 tom
+10 jerry
+13
+10 swapnil
+10 nononono
+10 hi-there
+10 cat
+10 hello_world!
+15 ready-to-print
+13
+11 hi-there
+11 cat
+13
+12 jerry
+10 Washington
+10 house
+10 laptop
+10 India
+10 USA
+10 hashtable_looks_great!
+11 Washington
+13
